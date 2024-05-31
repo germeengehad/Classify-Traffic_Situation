@@ -1,4 +1,4 @@
-# classification traffic conditions 
+# classification traffic Situation
   ![credit card Image](https://github.com/germeengehad/classify-traffic-conditions/blob/main/download.png)
 
 - This project aims to classify traffic conditions as low, normal, high, or heavy using K-Nearest Neighbors (KNN), decision trees, random forest, gradient boosting and XGBoost.
