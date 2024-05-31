@@ -16,9 +16,34 @@
     - TruckCount: The number of trucks counted during the observation period.
     - Total: The total count of all vehicles (cars, bikes, buses, and trucks) during the observation period.
 
-    # EDA And Data Preprossing
-    - I discovred the data
-    - I Encodeing the target encoding
-    - i handling the missing values
-    - i handlieng the multiconarrity
-    - 
+# EDA And Data Preprossing
+- Data Exploration: I explored the dataset to understand its structure, distributions, and key characteristics.
+- Target Encoding: I performed target encoding to convert categorical target variables into numerical values.
+- Handling Missing Values: I addressed missing values by applying appropriate techniques to ensure data integrity.
+- Handling Multicollinearity: I identified and managed multicollinearity to improve the performance of predictive models.
+- Applying ANOVA and Chi-Square Tests: I conducted ANOVA and Chi-square tests to assess the significance of different features.
+- Encoding Categorical Data: I encoded categorical features into numerical format to prepare the data for machine learning algorithms.
+
+# Model Building
+- Data Preparation steps:
+  1)  Data Separation as X and Y=(Traffic_Situation)
+  2)  Split the data into training and test sets .
+  3)  Handling the imbalanced data by appling oversampling to the training data
+  4)  Scale the data
+- Tried different models and used hyperparameter tuning with grid search to find the best parameters.
+
+  # Models Performance 
+- KNN Model: Accuracy = 97%
+- Decision Tree Model: Accuracy = 97%
+- Random Forest Model: Accuracy = 98%
+- Gradient Boosting Model: Accuracy = 95%
+- XGBoost Model: Accuracy = 93%
+
+  # Pickel The Best Model
+- Importing Pickle
+- Saving the Model
+- Loading the Model
+
+
+  
+      
