@@ -1,5 +1,5 @@
 # classification traffic Situation
-  ![credit card Image](https://github.com/germeengehad/classify-traffic-conditions/blob/main/download.png)
+  ![traffic Image]()
 
 - This project aims to classify traffic conditions as low, normal, high, or heavy using K-Nearest Neighbors (KNN), decision trees, random forest, gradient boosting and XGBoost.
 - I plan to conduct an exploratory data analysis (EDA) on my dataset, followed by data preprocessing and then building the models.
@@ -17,6 +17,7 @@
     - Total: The total count of all vehicles (cars, bikes, buses, and trucks) during the observation period.
 
 # EDA And Data Preprossing
+![traffic Image](https://github.com/germeengehad/classify-traffic-conditions/blob/main/download.png)
 - Data Exploration: I explored the dataset to understand its structure, distributions, and key characteristics.
 - Target Encoding: I performed target encoding to convert categorical target variables into numerical values.
 - Handling Missing Values: I addressed missing values by applying appropriate techniques to ensure data integrity.
