@@ -5,7 +5,7 @@
 - I plan to conduct an exploratory data analysis (EDA) on my dataset, followed by data preprocessing and then building the models.
   
   # The Data Set
-  ![credit card Image]()
+  ![credit card Image](https://github.com/germeengehad/classify-traffic-conditions/blob/main/download.png)
   - The dataset is stored in a CSV file format on this repo (above)
   - This dataset contains traffic data with the following columns:
     - Time: The specific time of the traffic observation.
